@@ -192,6 +192,3 @@ The techniques implemented here — inverted indexes, positional indexes, BM25 r
 - `MinHeap` for top-k → recommendation engines, log monitoring, streaming analytics, task schedulers
 - Dict memoisation → dynamic programming, API response caching, function result caching
 - Set operations → database query optimisation, access control, recommendation filtering
-
-
-*E046 · Chaitali Jaibhaye · B.Tech (Integrated) Data Science · MPSTME · AY 2025–2026*
