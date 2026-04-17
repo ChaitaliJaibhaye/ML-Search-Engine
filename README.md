@@ -1,10 +1,6 @@
 # ML Search Engine
 ### Domain-Specific Search Engine for Machine Learning & AI
 
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2.x-black?style=flat-square&logo=flask)
-![Algorithm](https://img.shields.io/badge/Ranking-BM25-8A2BE2?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
 
 A fully functional search engine built from scratch in Python — no pre-built search library used. Collects real ML/AI content from Wikipedia, ArXiv, Towards Data Science, and YouTube; builds a searchable inverted index using custom data structures; ranks results with the BM25 algorithm; and presents them through a Google-style Flask web interface.
 
@@ -185,19 +181,7 @@ Install all dependencies:
 pip install -r requirements.txt
 ```
 
----
 
-## ADSA Syllabus Coverage
-
-This project implements two core modules directly from the ADSA syllabus:
-
-- **Module 5 — Binary Heap:** Hand-built MinHeap in `ranking.py` for top-k selection
-- **Module 9 — Hash Table (Chaining):** Full implementation in `indexer.py` for the inverted index
-- **Module 9 — Hash Table (Probing):** Alternative implementation also in `indexer.py`
-
-**Course outcomes covered:** CO1, CO2, CO3
-
----
 
 ## Industry Relevance
 
